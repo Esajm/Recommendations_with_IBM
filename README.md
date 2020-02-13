@@ -1,2 +1,2 @@
 # Recommendations_with_IBM
-## Udacity project
+## Udacity data science course project
